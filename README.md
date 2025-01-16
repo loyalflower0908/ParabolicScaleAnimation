@@ -29,3 +29,9 @@
 ## 작동 예시 (GIF)
 
 <img src="https://github.com/loyalflower0908/ParabolicScaleAnimation/blob/master/ParabolicScaleAnimation.gif" width="30%" height="30%">
+
+
+
+## 느낀점
+
+조금 더 다듬어서 라이브러리화 해보고 싶다
